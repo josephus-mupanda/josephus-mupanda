@@ -59,8 +59,7 @@ The Group Contributions & Savings project consists of rotating assignments, auto
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&layout=compact&theme=radical)](https://github.com/josephus-mupanda)
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/mupandalubuto)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue)](https://twitter.com/mupandalubuto)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josephus_mupanda)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/josephus.mupanda)
-
+[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/mupandalubuto)
+[![Twitter](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://twitter.com/mupandalubuto)
+[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](https://www.instagram.com/josephus_mupanda)
+[![Facebook](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg)](https://www.facebook.com/josephus.mupanda)
