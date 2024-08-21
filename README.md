@@ -8,11 +8,6 @@
 - 📫 How to reach me: josephusmupanda48@gmail.com
 - ⚡ Fun fact: I love to explore new technologies and solve complex problems.
 
-### One of My Greatest Projects
-Check out this [intelligent traffic robot](https://drive.google.com/file/d/1wBRkPLrm8vDrl1_W6nys5L0HmuDB48ZY/view?usp=sharing) that I developed. It's an exciting project showcasing my skills and creativity.
-
-[![Intelligent Traffic Robot Thumbnail](https://via.placeholder.com/600x400?text=Click+to+Watch+Video)](https://drive.google.com/file/d/1wBRkPLrm8vDrl1_W6nys5L0HmuDB48ZY/view?usp=sharing)
-
 ## Skills
 
 ### Languages
