@@ -71,7 +71,10 @@ Emisha is the official website for Emisha, designed to provide detailed informat
 The Group Contributions & Savings project consists of rotating assignments, automated disbursements, interest calculations, and other vital features that a group contributions and savings project would have, using Flutter and Spring Boot.
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&layout=compact&theme=radical)](https://github.com/josephus-mupanda)
+<a href="https://github.com/jackmangosa1" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackmangosa1&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+                  
 
 ## Connect with Me
 <p align="left">
