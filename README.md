@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on SafeHarvest QA and the Group Contributions & Savings project using Flutter and Spring Boot.
 - 🌱 I’m currently learning advanced Spring Boot and Flutter.
 - 👯 I’m looking to collaborate on innovative tech solutions.
-- 💬 Ask me about electronics, Java, Spring Boot, and more.
+- 💬 Ask me about electronics, Java, Spring Boot, Flutter, Embedded systems and more.
 - 📫 How to reach me: josephusmupanda48@gmail.com
 - ⚡ Fun fact: I love to explore new technologies and solve complex problems.
 
@@ -17,6 +17,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="72" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 </p>
 
 ### Frameworks
@@ -52,8 +53,13 @@
 
 ## Projects
 
-### SafeHarvest QA
-[SafeHarvest QA](https://github.com/josephus-mupanda/SafeHarvestQA) - Food safety and quality assurance system for FAO in the DRC.
+### SafeHarvest QA : Food safety and quality assurance system for FAO in the DRC.
+**Overview:**
+SafeHarvest QA is an advanced software solution designed to assist the Food and Agriculture Organization (FAO) in the Democratic Republic of the Congo (DRC) in establishing and maintaining standards for food safety and quality. The platform provides comprehensive tools for setting guidelines on good agricultural and manufacturing practices, ensuring the safety and quality of food throughout the supply chain.
+
+### IKIMINA : Group Contributions & Savings Project
+**Overview:**
+The Group Contributions & Savings project consists of rotating assignments, automated disbursements, interest calculations, and other vital features that a group contributions and savings project would have, using Flutter and Spring Boot.
 
 ### Emisha Doc: Intelligent Malaria Diagnosis Application
 **Overview:**
@@ -67,8 +73,6 @@ J-Shop is a sophisticated e-commerce web application designed for seamless food 
 **Overview:**
 Emisha is the official website for Emisha, designed to provide detailed information about the company, its mission, services, and projects. This dynamic and visually appealing site ensures that visitors can easily learn about Emisha's offerings and stay updated with the latest developments. Built using Flutter, Emisha's website combines performance, responsiveness, and modern design to create an engaging user experience.
 
-### Group Contributions & Savings Project
-The Group Contributions & Savings project consists of rotating assignments, automated disbursements, interest calculations, and other vital features that a group contributions and savings project would have, using Flutter and Spring Boot.
 
 ## Top Languages
 <a href="https://github.com/josephus-mupanda" align="left">
