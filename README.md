@@ -76,7 +76,7 @@ Emisha is the official website for Emisha, designed to provide detailed informat
 
 ## Top Languages
 <a href="https://github.com/josephus-mupanda" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&count_private=true" alt="Top Languages" />
 </a>
                   
 
