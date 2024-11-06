@@ -75,8 +75,8 @@ Emisha is the official website for Emisha, designed to provide detailed informat
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josephus-mupanda&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## Top Languages
