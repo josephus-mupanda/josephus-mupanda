@@ -73,6 +73,11 @@ J-Shop is a sophisticated e-commerce web application designed for seamless food 
 **Overview:**
 Emisha is the official website for Emisha, designed to provide detailed information about the company, its mission, services, and projects. This dynamic and visually appealing site ensures that visitors can easily learn about Emisha's offerings and stay updated with the latest developments. Built using Flutter, Emisha's website combines performance, responsiveness, and modern design to create an engaging user experience.
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=josephus-mupanda&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=josephus-mupanda&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## Top Languages
 <a href="https://github.com/josephus-mupanda" align="left">
@@ -81,9 +86,6 @@ Emisha is the official website for Emisha, designed to provide detailed informat
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=josephus-mupanda&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=josephus-mupanda&limit=5&theme=dark&combine_all_yearly_contributions=true)
