@@ -78,6 +78,18 @@ Emisha is the official website for Emisha, designed to provide detailed informat
 <a href="https://github.com/josephus-mupanda" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&count_private=true" alt="Top Languages" />
 </a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=josephus-mupanda&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=josephus-mupanda&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=josephus-mupanda&icon=0&color=0)](https://visitcount.itsvg.in)
                   
 
 ## Connect with Me
