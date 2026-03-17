@@ -28,7 +28,6 @@
 <a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" width="80" height="36" alt="Spring Boot" /></a>
 <a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" width="80" height="36" alt="NestJS" /></a>
 <a href="https://www.hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" width="96" height="36" alt="Hibernate" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 </p>
 
@@ -72,6 +71,7 @@ Link: https://www.egliseacpe.com/
 **Overview:**
 A mobile application designed to track and monitor vehicles in real-time, improving logistics and operational efficiency.
 Link: https://fleet-monitoring-app-v2.vercel.app/
+
 ---
 
 ### Countries Mobile App
@@ -115,6 +115,7 @@ A platform developed to support organizational activities, communication, and im
 **Overview:**
 An intelligent system that predicts malaria severity using machine learning techniques.
 Link : https://ai-malaria-diagnosis-system.onrender.com/
+
 ---
 
 
