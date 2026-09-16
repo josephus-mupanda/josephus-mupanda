@@ -4,7 +4,7 @@
 
 I turn ideas into reliable products end to end — from IoT hardware and mobile apps to backend APIs and cloud deployment — for schools, non-profits, and startups across Africa.
 
-🌐 Portfolio: **[josephus-portfolio.vercel.app](https://josephus-portfolio.vercel.app)**
+🌐 Portfolio: **[josephus-mupanda.vercel.app](https://josephus-mupanda.vercel.app)**
 
 ---
 
@@ -100,7 +100,7 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 | **Group Contributions & Savings** | Platform for group savings and contributions, built at Bank of Kigali | Java · Spring Boot · Flutter |
 | **SafeHarvest QA** | Quality-assurance backend for tracking agricultural produce | Spring Boot |
 
-*More on my [portfolio →](https://josephus-portfolio.vercel.app/#projects)*
+*More on my [portfolio →](https://josephus-mupanda.vercel.app/#projects)*
 
 ---
 
