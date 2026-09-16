@@ -1,136 +1,128 @@
-# Hello, I'm Josephus Mupanda 👋
+# Hi, I'm Josephus Mupanda 👋
+
+**Technology Entrepreneur & Full-Stack Software Engineer** building scalable web, mobile, backend and IoT solutions. Co-founder of **[FIKA](https://www.i-fika.tech/)**, a child safety platform helping schools and families track a child's daily journey through smart identification, real-time checkpoints and alerts.
+
+I turn ideas into reliable products end to end — from IoT hardware and mobile apps to backend APIs and cloud deployment — for schools, non-profits, and startups across Africa.
+
+🌐 Portfolio: **[josephus-portfolio.vercel.app](https://josephus-portfolio.vercel.app)**
+
+---
 
 ## About Me
-- 🔭 I’m currently working on **ShieldHer**, an evidence-based deterrence system to protect women from harassment and violence using real-time recording and location sharing.
-- 🚀 Previously worked on SafeHarvest QA and multiple impactful systems across web, mobile, and embedded environments.
-- 🌱 I’m continuously improving my skills in advanced backend architecture, real-time systems, and scalable applications.
-- 👯 I’m open to collaborating on innovative and impactful tech solutions.
-- 💬 Ask me about Java, Spring Boot, NestJS, Flutter, Embedded Systems, and full-stack development.
-- 📫 How to reach me: josephusmupanda48@gmail.com
-- ⚡ Fun fact: I enjoy building systems that solve real-world problems and create impact.
+
+- 🚀 Co-Founder & Product Lead at **FIKA** — a child safety and school attendance platform (NestJS, PostgreSQL, React/TypeScript, IoT)
+- 🏆 DSE Hackathon Finalist & Winner (DOT Rwanda) and 2nd Laureate, UPDEV Challenge
+- 💼 Full-Stack Developer at **Life Changing Endeavor Organization (LCEO)** · previously Backend Developer Intern at **Solvit Africa** and Software Developer Intern at **Bank of Kigali**
+- 🎓 B.Sc. Information Technology | Software Engineering, Adventist University of Central Africa
+- ⛪ My work is rooted in faith — *"Whatever you do, work at it with all your heart, as working for the Lord."* (Colossians 3:23-24). I teach and lead in my church community alongside building software.
+- 📫 Reach me at **josephusmupanda48@gmail.com**
+
+---
 
 ## Skills
 
-### Languages
+**Languages**
+
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="72" height="36" alt="JavaScript" /></a>
-<a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.cplusplus.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" />
+<img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" alt="C++" />
 </p>
 
-### Frameworks
+**Frontend & Mobile**
+
 <p align="left">
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://flutter.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-<a href="https://spring.io/projects/spring-boot"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" width="80" height="36" alt="Spring Boot" /></a>
-<a href="https://nestjs.com/"><img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" width="80" height="36" alt="NestJS" /></a>
-<a href="https://www.hibernate.org/"><img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" width="96" height="36" alt="Hibernate" /></a>
-<a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" />
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
 </p>
 
-### Tools
+**Backend**
+
 <p align="left">
-<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://github.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" /></a>
-<a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" width="72" height="36" alt="Postman" /></a>
-<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" alt="NestJS" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot" />
 </p>
 
-### Deployment
+**Databases & ORM**
+
 <p align="left">
-<a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" width="60" height="36" alt="Vercel" /></a>
-<a href="https://render.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=for-the-badge" alt="Hibernate" />
+<img src="https://img.shields.io/badge/TypeORM-FE0902?logoColor=white&style=for-the-badge" alt="TypeORM" />
 </p>
 
-### Database
+**Cloud & DevOps**
+
 <p align="left">
-<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" alt="Railway" />
+<img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
+<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" alt="Render" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="CI/CD" />
 </p>
 
-## Projects
+**APIs & Testing**
 
-### ShieldHer : Women Safety & Evidence-Based Deterrence System
-**Overview:**
-ShieldHer is a mobile-based system designed to protect women in dangerous situations. With a simple trigger, it records evidence and shares real-time location and data with trusted contacts or legal support.
-
----
-
-### ACPE Church Website
-**Overview:**
-A modern website built with React and TypeScript for ACPE church, providing information, updates, and community engagement.
-Link: https://www.egliseacpe.com/
-
----
-
-### Fleet Monitoring Mobile App
-**Overview:**
-A mobile application designed to track and monitor vehicles in real-time, improving logistics and operational efficiency.
-Link: https://fleet-monitoring-app-v2.vercel.app/
-
----
-
-### Countries Mobile App
-**Overview:**
-A mobile application providing detailed information about countries, enhancing accessibility to global data.
-Link: https://countries-web-app-livid.vercel.app/
-
----
-### SafeHarvest QA : Food Safety System (FAO - DRC)
-**Overview:**
-A system that ensures food safety and quality standards across agricultural and manufacturing processes.
-
----
-
-### IKIMINA : Group Contributions & Savings
-**Overview:**
-A platform for managing rotating savings groups with automated contributions, disbursements, and financial tracking.
-
----
-
-### J-Shop: Food Ordering Platform
-**Overview:**
-A full-featured e-commerce system for food ordering with admin and customer interfaces.
-Link : https://e-commerce-frontend-react-js-pearl.vercel.app/
-
----
-
-### Mental Health Assessment System
-**Overview:**
-A system designed to assess mental health conditions and provide insights based on user input.
-
----
-
-### LCEO (Life Changing Endeavor Organization Platform)
-**Overview:**
-A platform developed to support organizational activities, communication, and impact-driven initiatives.
-
----
-
-### Emisha Doc: Malaria Diagnosis System
-**Overview:**
-An intelligent system that predicts malaria severity using machine learning techniques.
-Link : https://ai-malaria-diagnosis-system.onrender.com/
-
----
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=josephus-mupanda&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-## Connect with Me
 <p align="left">
-<a href="https://github.com/josephus-mupanda"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/josephus-mupanda"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
+<img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="Jest" />
+</p>
+
+**IoT & Embedded Systems**
+
+<p align="left">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge" alt="ESP32" />
+<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" alt="Arduino" />
+<img src="https://img.shields.io/badge/RFID%2FNFC-333333?style=for-the-badge" alt="RFID/NFC" />
+</p>
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **[FIKA](https://www.i-fika.tech/)** | Child safety & school attendance platform with real-time checkpoints and smart identification | React · TypeScript · NestJS · IoT |
+| **[LCEO Platform](https://www.lifechangingendeavor.org/)** | Digital platform for Life Changing Endeavor Organization with auth, notifications & payments | React · TypeScript · NestJS |
+| **[J-Shop](https://e-commerce-frontend-react-js-pearl.vercel.app/)** | Full-featured e-commerce app with catalog, cart and checkout | React · TypeScript · Spring Boot |
+| **[Fleet Monitoring App](https://fleet-monitoring-app-v2.vercel.app/)** | Mobile app for real-time vehicle fleet tracking | Flutter |
+| **[Country Explorer](https://countries-web-app-livid.vercel.app/)** | Mobile app for browsing countries and key data | Flutter |
+| **Group Contributions & Savings** | Platform for group savings and contributions, built at Bank of Kigali | Java · Spring Boot · Flutter |
+| **SafeHarvest QA** | Quality-assurance backend for tracking agricultural produce | Spring Boot |
+
+*More on my [portfolio →](https://josephus-portfolio.vercel.app/#projects)*
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=josephus-mupanda&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=josephus-mupanda&hide_border=true&background=0D1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josephus-mupanda&title_color=3b82f6&text_color=ffffff&icon_color=3b82f6&bg_color=0d1117&hide_border=true&layout=compact)
+
+## 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=josephus-mupanda&theme=algolia&no-frame=true&margin-w=4&column=7)
+
+---
+
+## Connect With Me
+
+<p align="left">
+<a href="https://github.com/josephus-mupanda"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/josephus-mupanda/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://medium.com/@josephusmupanda48"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
+<a href="https://www.instagram.com/josephus.mupanda"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" /></a>
+<a href="https://x.com/JosephusMupanda"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=for-the-badge" alt="X" /></a>
 </p>
