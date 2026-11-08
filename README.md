@@ -10,12 +10,13 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 
 ## About Me
 
+- 💼 Java Backend Developer Intern at **AmaliTech**, since **October 5, 2026**
 - 🚀 Co-Founder & Product Lead at **FIKA** — a child safety and school attendance platform (NestJS, PostgreSQL, React/TypeScript, IoT)
 - 🏆 DSE Hackathon Finalist & Winner (DOT Rwanda) and 2nd Laureate, UPDEV Challenge
 - 💼 Full-Stack Developer at **Life Changing Endeavor Organization (LCEO)** · previously Backend Developer Intern at **Solvit Africa** and Software Developer Intern at **Bank of Kigali**
 - 🎓 B.Sc. Information Technology | Software Engineering, Adventist University of Central Africa
 - ⛪ My work is rooted in faith — *"Whatever you do, work at it with all your heart, as working for the Lord."* (Colossians 3:23-24). I teach and lead in my church community alongside building software.
-- 📫 Reach me at **josephusmupanda48@gmail.com**
+- 📫 Reach me at **[josephusmupanda@gmail.com](mailto:josephusmupanda@gmail.com)**
 
 ---
 
@@ -92,6 +93,7 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 
 | Project | Description | Stack |
 |---|---|---|
+| **[Digi Santé](https://digisante.health/)** | Telemedicine platform for the TUNAWAPENDA pilot in eastern DRC: remote consultations, specialist advice and patient monitoring across web and mobile | React · TypeScript · React Native · Spring Boot |
 | **[FIKA](https://www.i-fika.tech/)** | Child safety & school attendance platform with real-time checkpoints and smart identification | React · TypeScript · NestJS · IoT |
 | **[LCEO Platform](https://www.lifechangingendeavor.org/)** | Digital platform for Life Changing Endeavor Organization with auth, notifications & payments | React · TypeScript · NestJS |
 | **[J-Shop](https://e-commerce-frontend-react-js-pearl.vercel.app/)** | Full-featured e-commerce app with catalog, cart and checkout | React · TypeScript · Spring Boot |
