@@ -64,7 +64,7 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 <p align="left">
 <img src="https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white&style=for-the-badge" alt="Railway" />
 <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" alt="Vercel" />
-<img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white&style=for-the-badge" alt="Render" />
+<img src="https://img.shields.io/badge/Contabo-0050A4?style=for-the-badge" alt="Contabo" />
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="CI/CD" />
@@ -74,6 +74,7 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 
 <p align="left">
 <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" alt="GraphQL" />
 <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge" alt="Swagger" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="Postman" />
 <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" alt="Jest" />
@@ -93,7 +94,7 @@ I turn ideas into reliable products end to end — from IoT hardware and mobile 
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Digi Santé](https://digisante.health/)** | Telemedicine platform for the TUNAWAPENDA pilot in eastern DRC: remote consultations, specialist advice and patient monitoring across web and mobile | React · TypeScript · React Native · Spring Boot |
+| **[Digi Santé](https://digisante.health/)** | Telemedicine platform for the TUNAWAPENDA pilot in eastern DRC: React web app and React Native mobile app for remote consultations, specialist advice and patient monitoring | React · TypeScript · React Native · Spring Boot |
 | **[FIKA](https://www.i-fika.tech/)** | Child safety & school attendance platform with real-time checkpoints and smart identification | React · TypeScript · NestJS · IoT |
 | **[LCEO Platform](https://www.lifechangingendeavor.org/)** | Digital platform for Life Changing Endeavor Organization with auth, notifications & payments | React · TypeScript · NestJS |
 | **[J-Shop](https://e-commerce-frontend-react-js-pearl.vercel.app/)** | Full-featured e-commerce app with catalog, cart and checkout | React · TypeScript · Spring Boot |
